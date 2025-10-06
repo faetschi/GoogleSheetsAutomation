@@ -1,3 +1,5 @@
+// Copyright (c) 2025 faetschi
+
 function buildCalendarFromOccurrences() {
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const cal = ss.getSheetByName("Calendar");
